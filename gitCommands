@@ -1,0 +1,12 @@
+For pushing into git : 
+$ git init
+$ git status
+$ git add .
+$ git config --global user.name "username"
+$ git config --global user.email "user email"
+$ git commit -m "commit message"
+$ git remote add origin "github repository link"
+$ git push -u origin master 
+
+ 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 
+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
