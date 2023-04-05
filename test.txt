@@ -1,1 +1,1 @@
-learning GitS
+learning Git
